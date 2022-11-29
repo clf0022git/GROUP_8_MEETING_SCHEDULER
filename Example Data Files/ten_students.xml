@@ -749,7 +749,7 @@
 					<seconds>00</seconds>
 				</starttime>
 				<endtime>
-					<hours>013</hours>
+					<hours>13</hours>
 					<minutes>30</minutes>
 					<seconds>00</seconds>
 				</endtime>
@@ -789,7 +789,7 @@
 					<seconds>00</seconds>
 				</starttime>
 				<endtime>
-					<hours>013</hours>
+					<hours>13</hours>
 					<minutes>30</minutes>
 					<seconds>00</seconds>
 				</endtime>
@@ -829,7 +829,7 @@
 					<seconds>00</seconds>
 				</starttime>
 				<endtime>
-					<hours>013</hours>
+					<hours>13</hours>
 					<minutes>30</minutes>
 					<seconds>00</seconds>
 				</endtime>
@@ -837,7 +837,7 @@
 		</day>
 	</student>
 	<student>
-		<name>George Washington</name>
+		<name>Abraham Lincoln</name>
 		<day id = "Tuesday">
 			<class>
 				<starttime>
